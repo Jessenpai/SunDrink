@@ -1,2 +1,2 @@
-# SunDrinker
+# SunDrink
 A collaborative game project
